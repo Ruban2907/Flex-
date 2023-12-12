@@ -1,0 +1,8 @@
+Course_Code  Crdt_hrs   Course_name
+301CS         3         Database Management Systems
+401CS         4         Operating Systems
+501CS         3         Software Engineering
+601CS         3         Artificial Intelligence
+701CS         4         Computer Networks
+801CS         3         Web Development
+301cs         3         oop
